@@ -4,7 +4,7 @@
 
 Creator of [Lumibot](https://github.com/Lumiwealth/lumibot), an open-source Python algorithmic trading framework with **1,275+ GitHub stars** and **260+ forks**, used by thousands of traders and engineers worldwide.
 
-Founder at [Lumiwealth](https://lumiwealth.com) and [BotSpot](https://botspot.ai). 20+ years of software engineering across fintech, crypto, and enterprise SaaS.
+Founder at [Lumiwealth](https://lumiwealth.com) and [BotSpot](https://botspot.trade). 29 years of software engineering across fintech, crypto, and enterprise SaaS. Led and mentored 100+ engineers, including teams of 20.
 
 ---
 
@@ -26,7 +26,7 @@ Founder at [Lumiwealth](https://lumiwealth.com) and [BotSpot](https://botspot.ai
 
 Open-source trading framework supporting stocks, options, futures, crypto, and forex. Integrates with 7+ brokers including Alpaca, Interactive Brokers, Tradier, and Coinbase. Built-in backtesting engine, paper trading, and live execution.
 
-### [BotSpot](https://botspot.ai) &mdash; AI Trading Agent Platform
+### [BotSpot](https://botspot.trade) &mdash; AI Trading Agent Platform
 One-click deployment of automated trading bots. AI-assisted strategy builder, real-time dashboards, automated risk controls, and WebSocket-driven execution. Built on Lumibot, designed for prop firms and institutional traders.
 
 ### [Lumiwealth](https://lumiwealth.com) &mdash; Algorithmic Trading Education
@@ -64,7 +64,7 @@ Trained **4,000+ algorithmic traders** from JP Morgan, Accenture, and leading he
 Available for algorithmic trading consulting, Python development, and fintech architecture projects.
 
 - **Consulting:** [Upwork Profile](https://www.upwork.com/freelancers/~011b42d1b1a6f1122b)
-- **Platform:** [botspot.ai](https://botspot.ai)
+- **Platform:** [botspot.trade](https://botspot.trade)
 - **Courses:** [lumiwealth.com](https://lumiwealth.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grzesir&show_icons=true&theme=default&hide_border=true)
